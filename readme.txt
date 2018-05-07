@@ -1,8 +1,4 @@
-B
-B
-C
-
-NEWS
+Files to perform testing
 
 Sherlock
 
